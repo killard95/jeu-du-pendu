@@ -4,6 +4,6 @@ body {
 #texte {
     font-size: larger;
 }
-#check {
+#check, img {
     visibility: hidden;
 }
