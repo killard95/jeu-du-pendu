@@ -1,0 +1,9 @@
+body {
+    text-align: center;
+}
+#texte {
+    font-size: larger;
+}
+#check, img {
+    visibility: hidden;
+}
